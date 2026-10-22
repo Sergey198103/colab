@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/global-ferst.iml" filepath="$PROJECT_DIR$/.idea/global-ferst.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/global-second.iml" filepath="$PROJECT_DIR$/.idea/global-second.iml" />
     </modules>
   </component>
 </project>
